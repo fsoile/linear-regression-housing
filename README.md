@@ -10,5 +10,5 @@ This project predocts house prices based on house size using a simple linear reg
 ![Regression Fit](regression_fit_housing.png)
 
 ## How to Run
-1. Open 'hmodelregression.ipynb' in Jupyter Notebook / VsCode.
+1. Open 'hmodelregression.ipynb' in Jupyter Notebook.
 2. Run all cells to see the analysis, plots, and predictions.
